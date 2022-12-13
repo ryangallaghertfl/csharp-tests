@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SeOZFL0rFghdatvbL/Io+JH+yff4pUZZSKDvu8PKaeGHjEUjcjsxSVaOjau0ntgMgtxgBvaCvDd3fJvsz8n2yQ==",
+  "success": true,
+  "projectFilePath": "/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/PriceDisplay/PriceDisplay.csproj",
+  "expectedPackageFiles": [
+    "/Users/ryangallagher/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/ryangallagher/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/ryangallagher/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.11/microsoft.netcore.app.host.osx-arm64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

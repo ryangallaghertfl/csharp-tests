@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XtmutLZf6fOB9O8sTW6NevgJU2WxizamRP4BGPnDgvfYDUvpUnhOtK1gk0QjVFEZ4R4q8sOTyVZmGSQOMxg4ug==",
+  "success": true,
+  "projectFilePath": "/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/Calculator/Calculator.csproj",
+  "expectedPackageFiles": [
+    "/Users/ryangallagher/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/ryangallagher/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/ryangallagher/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.11/microsoft.netcore.app.host.osx-arm64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

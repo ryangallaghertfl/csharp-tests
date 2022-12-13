@@ -1,0 +1,5 @@
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/ToDo.Tests/obj/Debug/net7.0/ToDo.Tests.csproj.AssemblyReference.cache
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/ToDo.Tests/obj/Debug/net7.0/ToDo.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/ToDo.Tests/obj/Debug/net7.0/ToDo.Tests.AssemblyInfoInputs.cache
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/ToDo.Tests/obj/Debug/net7.0/ToDo.Tests.AssemblyInfo.cs
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/ToDo.Tests/obj/Debug/net7.0/ToDo.Tests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/PriceDisplay/bin/Debug/net6.0/PriceDisplay
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/PriceDisplay/bin/Debug/net6.0/PriceDisplay.deps.json
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/PriceDisplay/bin/Debug/net6.0/PriceDisplay.runtimeconfig.json
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/PriceDisplay/bin/Debug/net6.0/PriceDisplay.dll
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/PriceDisplay/bin/Debug/net6.0/PriceDisplay.pdb
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/PriceDisplay/obj/Debug/net6.0/PriceDisplay.csproj.AssemblyReference.cache
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/PriceDisplay/obj/Debug/net6.0/PriceDisplay.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/PriceDisplay/obj/Debug/net6.0/PriceDisplay.AssemblyInfoInputs.cache
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/PriceDisplay/obj/Debug/net6.0/PriceDisplay.AssemblyInfo.cs
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/PriceDisplay/obj/Debug/net6.0/PriceDisplay.csproj.CoreCompileInputs.cache
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/PriceDisplay/obj/Debug/net6.0/PriceDisplay.dll
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/PriceDisplay/obj/Debug/net6.0/refint/PriceDisplay.dll
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/PriceDisplay/obj/Debug/net6.0/PriceDisplay.pdb
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/PriceDisplay/obj/Debug/net6.0/PriceDisplay.genruntimeconfig.cache
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/PriceDisplay/obj/Debug/net6.0/ref/PriceDisplay.dll

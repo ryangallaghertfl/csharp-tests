@@ -1,0 +1,15 @@
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/BrokenCalculator/bin/Debug/net6.0/BrokenCalculator
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/BrokenCalculator/bin/Debug/net6.0/BrokenCalculator.deps.json
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/BrokenCalculator/bin/Debug/net6.0/BrokenCalculator.runtimeconfig.json
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/BrokenCalculator/bin/Debug/net6.0/BrokenCalculator.dll
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/BrokenCalculator/bin/Debug/net6.0/BrokenCalculator.pdb
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/BrokenCalculator/obj/Debug/net6.0/BrokenCalculator.csproj.AssemblyReference.cache
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/BrokenCalculator/obj/Debug/net6.0/BrokenCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/BrokenCalculator/obj/Debug/net6.0/BrokenCalculator.AssemblyInfoInputs.cache
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/BrokenCalculator/obj/Debug/net6.0/BrokenCalculator.AssemblyInfo.cs
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/BrokenCalculator/obj/Debug/net6.0/BrokenCalculator.csproj.CoreCompileInputs.cache
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/BrokenCalculator/obj/Debug/net6.0/BrokenCalculator.dll
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/BrokenCalculator/obj/Debug/net6.0/refint/BrokenCalculator.dll
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/BrokenCalculator/obj/Debug/net6.0/BrokenCalculator.pdb
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/BrokenCalculator/obj/Debug/net6.0/BrokenCalculator.genruntimeconfig.cache
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/BrokenCalculator/obj/Debug/net6.0/ref/BrokenCalculator.dll

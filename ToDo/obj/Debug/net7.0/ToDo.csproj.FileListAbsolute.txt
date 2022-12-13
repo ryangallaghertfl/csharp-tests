@@ -1,0 +1,15 @@
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/ToDo/obj/Debug/net7.0/ToDo.csproj.AssemblyReference.cache
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/ToDo/obj/Debug/net7.0/ToDo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/ToDo/obj/Debug/net7.0/ToDo.AssemblyInfoInputs.cache
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/ToDo/obj/Debug/net7.0/ToDo.AssemblyInfo.cs
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/ToDo/obj/Debug/net7.0/ToDo.csproj.CoreCompileInputs.cache
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/ToDo/bin/Debug/net7.0/ToDo
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/ToDo/bin/Debug/net7.0/ToDo.deps.json
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/ToDo/bin/Debug/net7.0/ToDo.runtimeconfig.json
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/ToDo/bin/Debug/net7.0/ToDo.dll
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/ToDo/bin/Debug/net7.0/ToDo.pdb
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/ToDo/obj/Debug/net7.0/ToDo.dll
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/ToDo/obj/Debug/net7.0/refint/ToDo.dll
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/ToDo/obj/Debug/net7.0/ToDo.pdb
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/ToDo/obj/Debug/net7.0/ToDo.genruntimeconfig.cache
+/Users/ryangallagher/Projects/csharp-fundamentals/main/exercises/csharp_tdd_intro/ToDo/obj/Debug/net7.0/ref/ToDo.dll
